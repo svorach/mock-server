@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 110,
+  "overrides": [
+    {
+      "files": "*.test.js",
+      "options": {
+        "semi": true
+      }
+    }
+  ]
+}
